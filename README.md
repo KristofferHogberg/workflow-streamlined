@@ -14,7 +14,7 @@ This is a reference project that demonstrates how to automate your workflows usi
 
 ### Instructions
 
-1. Modify the script `start_apps.py` to suit your specific requirements.
+1. Modify the script `launch_apps.py` to suit your specific requirements.
 
 2. Create a new text document.
 
