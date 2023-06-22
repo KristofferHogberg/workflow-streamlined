@@ -1,7 +1,3 @@
-Sure! Here's an improved version of the guide with a README.md file:
-
----
-
 ## Workflow Automation with an App Launcher
 
 This is a reference project that demonstrates how to automate your workflows using an app launcher script. By following the steps below, you can customize the script according to your needs and execute it with ease.
@@ -52,6 +48,3 @@ This is a reference project that demonstrates how to automate your workflows usi
 
 Feel free to customize the script and adapt it to your workflow requirements. Enjoy the benefits of workflow automation with this app launcher script!
 
----
-
-You can create a new file named `README.md` and copy the above content into it. Make sure to save it in the same location as your project files. The README file provides clear instructions on how to use the script and sets the context for your reference project.
